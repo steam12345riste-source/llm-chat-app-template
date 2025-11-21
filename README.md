@@ -2,7 +2,7 @@
 
 A simple, ready-to-deploy chat application template powered by Cloudflare Workers AI. This template provides a clean starting point for building AI chat applications with streaming responses.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=[https://github.com/cloudflare/templates/tree/main/llm-chat-app-template](https://github.com/steam12345riste-source/llm-chat-app-template))
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/steam12345riste-source/llm-chat-app-template)
 
 <!-- dash-content-start -->
 
@@ -39,7 +39,7 @@ This template demonstrates how to build an AI-powered chat interface using Cloud
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/cloudflare/templates.git
+   git clone https://github.com/steam12345riste-source/llm-chat-app-template.git
    cd templates/llm-chat-app
    ```
 
